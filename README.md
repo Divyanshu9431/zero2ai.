@@ -1,4 +1,4 @@
-# YOLOv8 Object Detection Project
+# YOLOv8 Military Object Detection Project
 
 This project uses the YOLOv8 model for custom object detection on a dataset consisting of 6 object classes: `truck`, `car`, `tank`, `aircraft`, `aircraft fighter`, and `helicopter`. The model is trained using Google Colab and the dataset stored in Google Drive.
 

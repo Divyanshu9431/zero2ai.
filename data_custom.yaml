@@ -1,0 +1,6 @@
+train: train
+val: val
+
+nc: 6
+
+names: ["truck","car","tank","aircraft","aircraft fighter","helicopter"]
